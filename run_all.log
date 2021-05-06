@@ -1,0 +1,1225 @@
+2021-05-02 15:20:28,707:INFO:mode=CREATE
+2021-05-02 15:20:28,707:INFO:cv=10
+2021-05-02 15:20:28,707:INFO:n_estimators=500
+2021-05-02 15:20:28,707:INFO:n_jobs=1
+2021-05-02 15:20:28,707:INFO:max_bins=255
+2021-05-02 15:20:28,708:INFO:max_features=None
+2021-05-02 15:20:28,708:INFO:start_id=None
+2021-05-02 15:20:28,708:INFO:stop_id=None
+2021-05-02 15:20:28,708:INFO:honest_prior=ignore
+2021-05-02 15:20:28,708:INFO:parallel_tasks=1
+2021-05-02 15:20:28,708:INFO:vary_samples=False
+2021-05-02 15:20:28,708:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:20:29,340:INFO:0.6321559s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:21:28,280:INFO:mode=CREATE
+2021-05-02 15:21:28,280:INFO:cv=10
+2021-05-02 15:21:28,280:INFO:n_estimators=500
+2021-05-02 15:21:28,280:INFO:n_jobs=1
+2021-05-02 15:21:28,281:INFO:max_bins=255
+2021-05-02 15:21:28,281:INFO:max_features=None
+2021-05-02 15:21:28,281:INFO:start_id=None
+2021-05-02 15:21:28,281:INFO:stop_id=None
+2021-05-02 15:21:28,281:INFO:honest_prior=ignore
+2021-05-02 15:21:28,281:INFO:parallel_tasks=1
+2021-05-02 15:21:28,281:INFO:vary_samples=False
+2021-05-02 15:21:28,281:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:21:28,783:INFO:0.5022533s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:21:28,791:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3
+2021-05-02 15:21:29,172:INFO:0.3809383s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3
+2021-05-02 15:21:29,180:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/3
+2021-05-02 15:21:29,541:INFO:0.3600674s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/3
+2021-05-02 15:21:29,545:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/3
+2021-05-02 15:21:33,780:INFO:4.2337570s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/3
+2021-05-02 15:21:33,782:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/3
+2021-05-02 15:21:34,347:INFO:0.5651059s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/3
+2021-05-02 15:21:34,350:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/3/kr-vs-kp.arff
+2021-05-02 15:21:34,814:INFO:0.4629667s taken for [get] request for the URL https://www.openml.org/data/v1/download/3/kr-vs-kp.arff
+2021-05-02 15:21:35,344:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3/Task_3_splits.arff
+2021-05-02 15:21:36,071:INFO:0.7279091s taken for [get] request for the URL https://www.openml.org/api_splits/get/3/Task_3_splits.arff
+2021-05-02 15:21:36,692:INFO:Running kr-vs-kp (3)
+2021-05-02 15:21:37,418:INFO:pickle write kr-vs-kp
+2021-05-02 15:21:37,452:INFO:NumExpr defaulting to 4 threads.
+2021-05-02 15:22:16,487:INFO:mode=CREATE
+2021-05-02 15:22:16,487:INFO:cv=10
+2021-05-02 15:22:16,487:INFO:n_estimators=50
+2021-05-02 15:22:16,487:INFO:n_jobs=1
+2021-05-02 15:22:16,487:INFO:max_bins=255
+2021-05-02 15:22:16,487:INFO:max_features=None
+2021-05-02 15:22:16,487:INFO:start_id=None
+2021-05-02 15:22:16,487:INFO:stop_id=None
+2021-05-02 15:22:16,487:INFO:honest_prior=ignore
+2021-05-02 15:22:16,487:INFO:parallel_tasks=1
+2021-05-02 15:22:16,487:INFO:vary_samples=False
+2021-05-02 15:22:16,487:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:22:17,059:INFO:0.5720210s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-02 15:22:17,731:INFO:Running kr-vs-kp (3)
+2021-05-02 15:22:17,982:INFO:pickle load data kr-vs-kp
+2021-05-02 15:22:18,037:INFO:NumExpr defaulting to 4 threads.
+2021-05-02 15:22:36,812:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/6
+2021-05-02 15:22:37,297:INFO:0.4851494s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/6
+2021-05-02 15:22:37,300:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/6
+2021-05-02 15:22:37,647:INFO:0.3471491s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/6
+2021-05-02 15:22:37,653:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/6
+2021-05-02 15:22:41,897:INFO:4.2442880s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/6
+2021-05-02 15:22:41,898:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/6
+2021-05-02 15:22:42,442:INFO:0.5429776s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/6
+2021-05-02 15:22:42,444:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/6/letter.arff
+2021-05-02 15:22:43,096:INFO:0.6505239s taken for [get] request for the URL https://www.openml.org/data/v1/download/6/letter.arff
+2021-05-02 15:22:43,550:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/6/Task_6_splits.arff
+2021-05-02 15:22:44,563:INFO:1.0125852s taken for [get] request for the URL https://www.openml.org/api_splits/get/6/Task_6_splits.arff
+2021-05-02 15:22:46,272:INFO:Running letter (6)
+2021-05-02 15:22:46,909:INFO:pickle write letter
+2021-05-02 15:26:01,030:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/11
+2021-05-02 15:26:01,652:INFO:0.6226184s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/11
+2021-05-02 15:26:01,656:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/11
+2021-05-02 15:26:02,069:INFO:0.4120686s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/11
+2021-05-02 15:26:02,079:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/11
+2021-05-02 15:26:06,534:INFO:4.4544241s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/11
+2021-05-02 15:26:06,538:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/11
+2021-05-02 15:26:07,110:INFO:0.5722482s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/11
+2021-05-02 15:26:07,118:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/11/balance-scale.arff
+2021-05-02 15:26:07,518:INFO:0.4001684s taken for [get] request for the URL https://www.openml.org/data/v1/download/11/balance-scale.arff
+2021-05-02 15:26:07,954:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/11/Task_11_splits.arff
+2021-05-02 15:26:08,479:INFO:0.5236351s taken for [get] request for the URL https://www.openml.org/api_splits/get/11/Task_11_splits.arff
+2021-05-02 15:26:08,838:INFO:Running balance-scale (11)
+2021-05-02 15:26:09,104:INFO:pickle write balance-scale
+2021-05-02 15:26:16,156:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/12
+2021-05-02 15:26:16,749:INFO:0.5929632s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/12
+2021-05-02 15:26:16,752:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/12
+2021-05-02 15:26:17,160:INFO:0.4064541s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/12
+2021-05-02 15:26:17,165:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/12
+2021-05-02 15:26:21,408:INFO:4.2434511s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/12
+2021-05-02 15:26:21,410:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/12
+2021-05-02 15:26:21,928:INFO:0.5155261s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/12
+2021-05-02 15:26:21,932:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/12/mfeat-factors.arff
+2021-05-02 15:26:22,898:INFO:0.9655237s taken for [get] request for the URL https://www.openml.org/data/v1/download/12/mfeat-factors.arff
+2021-05-02 15:26:23,185:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/12/Task_12_splits.arff
+2021-05-02 15:26:23,784:INFO:0.5993738s taken for [get] request for the URL https://www.openml.org/api_splits/get/12/Task_12_splits.arff
+2021-05-02 15:26:24,300:INFO:Running mfeat-factors (12)
+2021-05-02 15:26:25,180:INFO:pickle write mfeat-factors
+2021-05-02 15:30:33,675:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14
+2021-05-02 15:30:34,170:INFO:0.4935286s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14
+2021-05-02 15:30:34,174:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/14
+2021-05-02 15:30:34,594:INFO:0.4193008s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/14
+2021-05-02 15:30:34,596:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/14
+2021-05-02 15:30:38,896:INFO:4.3003228s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/14
+2021-05-02 15:30:38,897:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/14
+2021-05-02 15:30:39,357:INFO:0.4595733s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/14
+2021-05-02 15:30:39,359:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/14/mfeat-fourier.arff
+2021-05-02 15:30:40,458:INFO:1.0993469s taken for [get] request for the URL https://www.openml.org/data/v1/download/14/mfeat-fourier.arff
+2021-05-02 15:30:40,852:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14/Task_14_splits.arff
+2021-05-02 15:30:41,440:INFO:0.5882370s taken for [get] request for the URL https://www.openml.org/api_splits/get/14/Task_14_splits.arff
+2021-05-02 15:30:41,900:INFO:Running mfeat-fourier (14)
+2021-05-02 15:30:42,315:INFO:pickle write mfeat-fourier
+2021-05-02 15:32:40,257:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/15
+2021-05-02 15:32:40,780:INFO:0.5225651s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/15
+2021-05-02 15:32:40,783:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/15
+2021-05-02 15:32:41,192:INFO:0.4094543s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/15
+2021-05-02 15:32:41,198:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/15
+2021-05-02 15:32:45,425:INFO:4.2266450s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/15
+2021-05-02 15:32:45,427:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/15
+2021-05-02 15:32:45,951:INFO:0.5247009s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/15
+2021-05-02 15:32:45,956:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52350/breast-w.arff
+2021-05-02 15:32:46,390:INFO:0.4338322s taken for [get] request for the URL https://www.openml.org/data/v1/download/52350/breast-w.arff
+2021-05-02 15:32:46,673:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/15/Task_15_splits.arff
+2021-05-02 15:32:47,212:INFO:0.5396724s taken for [get] request for the URL https://www.openml.org/api_splits/get/15/Task_15_splits.arff
+2021-05-02 15:32:47,525:INFO:Running breast-w (15)
+2021-05-02 15:32:47,775:INFO:pickle write breast-w
+2021-05-02 15:32:51,662:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/16
+2021-05-02 15:32:52,159:INFO:0.4965782s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/16
+2021-05-02 15:32:52,162:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/16
+2021-05-02 15:32:52,518:INFO:0.3565621s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/16
+2021-05-02 15:32:52,519:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/16
+2021-05-02 15:32:57,307:INFO:4.7881472s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/16
+2021-05-02 15:32:57,309:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/16
+2021-05-02 15:32:57,762:INFO:0.4512639s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/16
+2021-05-02 15:32:57,763:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/16/mfeat-karhunen.arff
+2021-05-02 15:32:58,675:INFO:0.9126468s taken for [get] request for the URL https://www.openml.org/data/v1/download/16/mfeat-karhunen.arff
+2021-05-02 15:32:59,171:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/16/Task_16_splits.arff
+2021-05-02 15:32:59,765:INFO:0.5942125s taken for [get] request for the URL https://www.openml.org/api_splits/get/16/Task_16_splits.arff
+2021-05-02 15:33:00,191:INFO:Running mfeat-karhunen (16)
+2021-05-02 15:33:00,571:INFO:pickle write mfeat-karhunen
+2021-05-02 15:35:02,883:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/18
+2021-05-02 15:35:03,352:INFO:0.4691057s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/18
+2021-05-02 15:35:03,357:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/18
+2021-05-02 15:35:03,743:INFO:0.3855801s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/18
+2021-05-02 15:35:03,745:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/18
+2021-05-02 15:35:08,171:INFO:4.4262786s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/18
+2021-05-02 15:35:08,173:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/18
+2021-05-02 15:35:08,673:INFO:0.4999528s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/18
+2021-05-02 15:35:08,678:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18/mfeat-morphological.arff
+2021-05-02 15:35:09,182:INFO:0.5040715s taken for [get] request for the URL https://www.openml.org/data/v1/download/18/mfeat-morphological.arff
+2021-05-02 15:35:09,456:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/18/Task_18_splits.arff
+2021-05-02 15:35:10,043:INFO:0.5872025s taken for [get] request for the URL https://www.openml.org/api_splits/get/18/Task_18_splits.arff
+2021-05-02 15:35:10,470:INFO:Running mfeat-morphological (18)
+2021-05-02 15:35:10,799:INFO:pickle write mfeat-morphological
+2021-05-02 15:35:45,539:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/22
+2021-05-02 15:35:46,144:INFO:0.6046252s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/22
+2021-05-02 15:35:46,147:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/22
+2021-05-02 15:35:46,532:INFO:0.3857381s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/22
+2021-05-02 15:35:46,534:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/22
+2021-05-02 15:35:50,906:INFO:4.3719225s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/22
+2021-05-02 15:35:50,907:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/22
+2021-05-02 15:35:51,413:INFO:0.5056694s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/22
+2021-05-02 15:35:51,419:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/22/mfeat-zernike.arff
+2021-05-02 15:35:52,421:INFO:1.0011444s taken for [get] request for the URL https://www.openml.org/data/v1/download/22/mfeat-zernike.arff
+2021-05-02 15:35:52,837:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/22/Task_22_splits.arff
+2021-05-02 15:35:53,429:INFO:0.5922813s taken for [get] request for the URL https://www.openml.org/api_splits/get/22/Task_22_splits.arff
+2021-05-02 15:35:53,847:INFO:Running mfeat-zernike (22)
+2021-05-02 15:35:54,225:INFO:pickle write mfeat-zernike
+2021-05-02 15:37:52,974:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/23
+2021-05-02 15:37:53,482:INFO:0.5074914s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/23
+2021-05-02 15:37:53,484:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/23
+2021-05-02 15:37:53,872:INFO:0.3887360s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/23
+2021-05-02 15:37:53,877:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23
+2021-05-02 15:37:58,550:INFO:4.6722322s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23
+2021-05-02 15:37:58,551:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23
+2021-05-02 15:37:59,008:INFO:0.4569604s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23
+2021-05-02 15:37:59,010:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/23/cmc.arff
+2021-05-02 15:37:59,346:INFO:0.3363044s taken for [get] request for the URL https://www.openml.org/data/v1/download/23/cmc.arff
+2021-05-02 15:37:59,743:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/23/Task_23_splits.arff
+2021-05-02 15:38:00,279:INFO:0.5366700s taken for [get] request for the URL https://www.openml.org/api_splits/get/23/Task_23_splits.arff
+2021-05-02 15:38:00,687:INFO:Running cmc (23)
+2021-05-02 15:38:00,978:INFO:pickle write cmc
+2021-05-02 15:38:22,197:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/28
+2021-05-02 15:38:22,717:INFO:0.5186679s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/28
+2021-05-02 15:38:22,722:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/28
+2021-05-02 15:38:23,145:INFO:0.4218714s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/28
+2021-05-02 15:38:23,150:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/28
+2021-05-02 15:38:27,278:INFO:4.1274207s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/28
+2021-05-02 15:38:27,282:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/28
+2021-05-02 15:38:27,754:INFO:0.4720366s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/28
+2021-05-02 15:38:27,757:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/28/optdigits.arff
+2021-05-02 15:38:28,557:INFO:0.7991273s taken for [get] request for the URL https://www.openml.org/data/v1/download/28/optdigits.arff
+2021-05-02 15:38:28,876:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/28/Task_28_splits.arff
+2021-05-02 15:38:29,610:INFO:0.7333236s taken for [get] request for the URL https://www.openml.org/api_splits/get/28/Task_28_splits.arff
+2021-05-02 15:38:30,228:INFO:Running optdigits (28)
+2021-05-02 15:38:30,769:INFO:pickle write optdigits
+2021-05-02 15:40:09,130:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/29
+2021-05-02 15:40:09,712:INFO:0.5816882s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/29
+2021-05-02 15:40:09,714:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/29
+2021-05-02 15:40:10,097:INFO:0.3829999s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/29
+2021-05-02 15:40:10,098:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/29
+2021-05-02 15:40:14,416:INFO:4.3173702s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/29
+2021-05-02 15:40:14,417:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/29
+2021-05-02 15:40:14,881:INFO:0.4641702s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/29
+2021-05-02 15:40:14,882:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/29/credit-approval.arff
+2021-05-02 15:40:15,364:INFO:0.4821863s taken for [get] request for the URL https://www.openml.org/data/v1/download/29/credit-approval.arff
+2021-05-02 15:40:15,769:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/29/Task_29_splits.arff
+2021-05-02 15:40:16,187:INFO:0.4175520s taken for [get] request for the URL https://www.openml.org/api_splits/get/29/Task_29_splits.arff
+2021-05-02 15:40:16,546:INFO:Running credit-approval (29)
+2021-05-02 15:40:16,822:INFO:pickle write credit-approval
+2021-05-02 15:40:24,934:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/31
+2021-05-02 15:40:25,424:INFO:0.4884274s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/31
+2021-05-02 15:40:25,430:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/31
+2021-05-02 15:40:25,784:INFO:0.3527787s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/31
+2021-05-02 15:40:25,788:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/31
+2021-05-02 15:40:29,976:INFO:4.1883647s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/31
+2021-05-02 15:40:29,978:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/31
+2021-05-02 15:40:30,388:INFO:0.4096503s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/31
+2021-05-02 15:40:30,393:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/31/credit-g.arff
+2021-05-02 15:40:30,835:INFO:0.4411373s taken for [get] request for the URL https://www.openml.org/data/v1/download/31/credit-g.arff
+2021-05-02 15:40:31,109:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/31/Task_31_splits.arff
+2021-05-02 15:40:31,590:INFO:0.4797251s taken for [get] request for the URL https://www.openml.org/api_splits/get/31/Task_31_splits.arff
+2021-05-02 15:40:31,965:INFO:Running credit-g (31)
+2021-05-02 15:40:32,278:INFO:pickle write credit-g
+2021-05-02 15:40:43,814:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/32
+2021-05-02 15:40:44,312:INFO:0.4981525s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/32
+2021-05-02 15:40:44,316:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/32
+2021-05-02 15:40:44,702:INFO:0.3857749s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/32
+2021-05-02 15:40:44,703:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/32
+2021-05-02 15:40:48,856:INFO:4.1518788s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/32
+2021-05-02 15:40:48,857:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/32
+2021-05-02 15:40:49,236:INFO:0.3795342s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/32
+2021-05-02 15:40:49,237:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/32/pendigits.arff
+2021-05-02 15:40:49,957:INFO:0.7198620s taken for [get] request for the URL https://www.openml.org/data/v1/download/32/pendigits.arff
+2021-05-02 15:40:50,397:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/32/Task_32_splits.arff
+2021-05-02 15:40:51,188:INFO:0.7908709s taken for [get] request for the URL https://www.openml.org/api_splits/get/32/Task_32_splits.arff
+2021-05-02 15:40:52,135:INFO:Running pendigits (32)
+2021-05-02 15:40:52,646:INFO:pickle write pendigits
+2021-05-02 15:41:56,245:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/37
+2021-05-02 15:41:56,703:INFO:0.4583728s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/37
+2021-05-02 15:41:56,709:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/37
+2021-05-02 15:41:57,072:INFO:0.3621566s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/37
+2021-05-02 15:41:57,073:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/37
+2021-05-02 15:42:01,813:INFO:4.7396479s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/37
+2021-05-02 15:42:01,818:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/37
+2021-05-02 15:42:02,276:INFO:0.4585888s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/37
+2021-05-02 15:42:02,277:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/37/diabetes.arff
+2021-05-02 15:42:02,722:INFO:0.4452529s taken for [get] request for the URL https://www.openml.org/data/v1/download/37/diabetes.arff
+2021-05-02 15:42:02,976:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/37/Task_37_splits.arff
+2021-05-02 15:42:03,447:INFO:0.4707389s taken for [get] request for the URL https://www.openml.org/api_splits/get/37/Task_37_splits.arff
+2021-05-02 15:42:03,764:INFO:Running diabetes (37)
+2021-05-02 15:42:03,990:INFO:pickle write diabetes
+2021-05-02 15:42:09,890:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/43
+2021-05-02 15:42:10,451:INFO:0.5608552s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/43
+2021-05-02 15:42:10,457:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/44
+2021-05-02 15:42:10,810:INFO:0.3525386s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/44
+2021-05-02 15:42:10,814:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/44
+2021-05-02 15:42:15,130:INFO:4.3157077s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/44
+2021-05-02 15:42:15,132:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/44
+2021-05-02 15:42:15,619:INFO:0.4871442s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/44
+2021-05-02 15:42:15,621:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/44/spambase.arff
+2021-05-02 15:42:16,369:INFO:0.7477353s taken for [get] request for the URL https://www.openml.org/data/v1/download/44/spambase.arff
+2021-05-02 15:42:16,641:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/43/Task_43_splits.arff
+2021-05-02 15:42:17,336:INFO:0.6939631s taken for [get] request for the URL https://www.openml.org/api_splits/get/43/Task_43_splits.arff
+2021-05-02 15:42:17,905:INFO:Running spambase (43)
+2021-05-02 15:42:18,341:INFO:pickle write spambase
+2021-05-02 15:43:01,874:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/45
+2021-05-02 15:43:02,345:INFO:0.4712048s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/45
+2021-05-02 15:43:02,351:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/46
+2021-05-02 15:43:02,900:INFO:0.5486891s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/46
+2021-05-02 15:43:02,903:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/46
+2021-05-02 15:43:07,658:INFO:4.7546976s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/46
+2021-05-02 15:43:07,663:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/46
+2021-05-02 15:43:08,164:INFO:0.5010805s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/46
+2021-05-02 15:43:08,166:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/46/splice.arff
+2021-05-02 15:43:08,869:INFO:0.7028677s taken for [get] request for the URL https://www.openml.org/data/v1/download/46/splice.arff
+2021-05-02 15:43:09,247:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/45/Task_45_splits.arff
+2021-05-02 15:43:09,851:INFO:0.6036804s taken for [get] request for the URL https://www.openml.org/api_splits/get/45/Task_45_splits.arff
+2021-05-02 15:43:10,333:INFO:Running splice (45)
+2021-05-02 15:43:11,023:INFO:pickle write splice
+2021-05-02 15:43:11,027:INFO:Going to remove the following attributes: ['Instance_name']
+2021-05-02 15:44:53,781:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/49
+2021-05-02 15:44:54,278:INFO:0.4973876s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/49
+2021-05-02 15:44:54,280:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/50
+2021-05-02 15:44:54,671:INFO:0.3909798s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/50
+2021-05-02 15:44:54,672:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/50
+2021-05-02 15:44:59,460:INFO:4.7877893s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/50
+2021-05-02 15:44:59,462:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/50
+2021-05-02 15:44:59,924:INFO:0.4619110s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/50
+2021-05-02 15:44:59,926:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/50/tic-tac-toe.arff
+2021-05-02 15:45:00,341:INFO:0.4147575s taken for [get] request for the URL https://www.openml.org/data/v1/download/50/tic-tac-toe.arff
+2021-05-02 15:45:00,639:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/49/Task_49_splits.arff
+2021-05-02 15:45:01,163:INFO:0.5236166s taken for [get] request for the URL https://www.openml.org/api_splits/get/49/Task_49_splits.arff
+2021-05-02 15:45:01,507:INFO:Running tic-tac-toe (49)
+2021-05-02 15:45:01,770:INFO:pickle write tic-tac-toe
+2021-05-02 15:45:07,931:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/53
+2021-05-02 15:45:08,449:INFO:0.5182958s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/53
+2021-05-02 15:45:08,452:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/54
+2021-05-02 15:45:08,818:INFO:0.3654187s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/54
+2021-05-02 15:45:08,820:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/54
+2021-05-02 15:45:13,436:INFO:4.6168818s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/54
+2021-05-02 15:45:13,437:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/54
+2021-05-02 15:45:13,839:INFO:0.4016244s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/54
+2021-05-02 15:45:13,840:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/54/vehicle.arff
+2021-05-02 15:45:14,339:INFO:0.4994600s taken for [get] request for the URL https://www.openml.org/data/v1/download/54/vehicle.arff
+2021-05-02 15:45:14,611:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/53/Task_53_splits.arff
+2021-05-02 15:45:15,088:INFO:0.4767087s taken for [get] request for the URL https://www.openml.org/api_splits/get/53/Task_53_splits.arff
+2021-05-02 15:45:15,408:INFO:Running vehicle (53)
+2021-05-02 15:45:15,644:INFO:pickle write vehicle
+2021-05-02 15:45:27,742:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/219
+2021-05-02 15:45:28,258:INFO:0.5154159s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/219
+2021-05-02 15:45:28,264:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/151
+2021-05-02 15:45:28,612:INFO:0.3469310s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/151
+2021-05-02 15:45:28,613:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/151
+2021-05-02 15:45:32,925:INFO:4.3114147s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/151
+2021-05-02 15:45:32,926:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/151
+2021-05-02 15:45:33,420:INFO:0.4941859s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/151
+2021-05-02 15:45:33,421:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/2419/electricity.arff
+2021-05-02 15:45:34,413:INFO:0.9913874s taken for [get] request for the URL https://www.openml.org/data/v1/download/2419/electricity.arff
+2021-05-02 15:45:34,664:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/219/Task_219_splits.arff
+2021-05-02 15:45:35,939:INFO:1.2749045s taken for [get] request for the URL https://www.openml.org/api_splits/get/219/Task_219_splits.arff
+2021-05-02 15:45:39,775:INFO:Running electricity (219)
+2021-05-02 15:45:40,583:INFO:pickle write electricity
+2021-05-02 18:00:57,145:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/2074
+2021-05-02 18:00:57,745:INFO:0.5989869s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/2074
+2021-05-02 18:00:57,747:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/182
+2021-05-02 18:00:58,096:INFO:0.3488724s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/182
+2021-05-02 18:00:58,097:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/182
+2021-05-02 18:01:02,641:INFO:4.5417314s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/182
+2021-05-02 18:01:02,642:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/182
+2021-05-02 18:01:03,284:INFO:0.6402853s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/182
+2021-05-02 18:01:03,285:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/3619/satimage.arff
+2021-05-02 18:01:04,223:INFO:0.9385726s taken for [get] request for the URL https://www.openml.org/data/v1/download/3619/satimage.arff
+2021-05-02 18:01:04,731:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/2074/Task_2074_splits.arff
+2021-05-02 18:01:05,468:INFO:0.7363238s taken for [get] request for the URL https://www.openml.org/api_splits/get/2074/Task_2074_splits.arff
+2021-05-02 18:01:06,163:INFO:Running satimage (2074)
+2021-05-02 18:01:06,618:INFO:pickle write satimage
+2021-05-02 18:02:17,027:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/2079
+2021-05-02 18:02:17,546:INFO:0.5188923s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/2079
+2021-05-02 18:02:17,548:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/188
+2021-05-02 18:02:17,938:INFO:0.3897321s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/188
+2021-05-02 18:02:17,940:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/188
+2021-05-02 18:02:22,329:INFO:4.3898718s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/188
+2021-05-02 18:02:22,331:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/188
+2021-05-02 18:02:22,951:INFO:0.6196406s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/188
+2021-05-02 18:02:22,953:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/3625/eucalyptus.arff
+2021-05-02 18:02:23,479:INFO:0.5259216s taken for [get] request for the URL https://www.openml.org/data/v1/download/3625/eucalyptus.arff
+2021-05-02 18:02:23,863:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/2079/Task_2079_splits.arff
+2021-05-02 18:02:24,387:INFO:0.5239615s taken for [get] request for the URL https://www.openml.org/api_splits/get/2079/Task_2079_splits.arff
+2021-05-02 18:02:24,703:INFO:Running eucalyptus (2079)
+2021-05-02 18:02:24,984:INFO:pickle write eucalyptus
+2021-05-02 18:02:48,719:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3021
+2021-05-02 18:02:49,223:INFO:0.5023756s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3021
+2021-05-02 18:02:49,226:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/38
+2021-05-02 18:02:49,578:INFO:0.3528533s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/38
+2021-05-02 18:02:49,580:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/38
+2021-05-02 18:02:53,968:INFO:4.3878684s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/38
+2021-05-02 18:02:53,973:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/38
+2021-05-02 18:02:54,434:INFO:0.4597447s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/38
+2021-05-02 18:02:54,439:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/38/sick.arff
+2021-05-02 18:02:54,989:INFO:0.5500081s taken for [get] request for the URL https://www.openml.org/data/v1/download/38/sick.arff
+2021-05-02 18:02:55,401:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3021/Task_3021_splits.arff
+2021-05-02 18:02:56,036:INFO:0.6346161s taken for [get] request for the URL https://www.openml.org/api_splits/get/3021/Task_3021_splits.arff
+2021-05-02 18:02:56,584:INFO:Running sick (3021)
+2021-05-02 18:02:56,967:INFO:pickle write sick
+2021-05-02 18:03:11,864:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3022
+2021-05-02 18:03:12,429:INFO:0.5655925s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3022
+2021-05-02 18:03:12,430:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/307
+2021-05-02 18:03:12,772:INFO:0.3412969s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/307
+2021-05-02 18:03:12,773:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/307
+2021-05-02 18:03:17,238:INFO:4.4639442s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/307
+2021-05-02 18:03:17,239:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/307
+2021-05-02 18:03:17,702:INFO:0.4630527s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/307
+2021-05-02 18:03:17,703:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52210/vowel.arff
+2021-05-02 18:03:18,177:INFO:0.4731166s taken for [get] request for the URL https://www.openml.org/data/v1/download/52210/vowel.arff
+2021-05-02 18:03:18,567:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3022/Task_3022_splits.arff
+2021-05-02 18:03:19,034:INFO:0.4670718s taken for [get] request for the URL https://www.openml.org/api_splits/get/3022/Task_3022_splits.arff
+2021-05-02 18:03:19,414:INFO:Running vowel (3022)
+2021-05-02 18:03:19,644:INFO:pickle write vowel
+2021-05-02 18:03:51,370:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3481
+2021-05-02 18:03:51,750:INFO:0.3793733s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3481
+2021-05-02 18:03:51,752:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/300
+2021-05-02 18:03:52,088:INFO:0.3363414s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/300
+2021-05-02 18:03:52,089:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/300
+2021-05-02 18:03:56,678:INFO:4.5885811s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/300
+2021-05-02 18:03:56,683:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/300
+2021-05-02 18:03:57,246:INFO:0.5632598s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/300
+2021-05-02 18:03:57,252:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52405/isolet.arff
+2021-05-02 18:04:01,906:INFO:4.6541820s taken for [get] request for the URL https://www.openml.org/data/v1/download/52405/isolet.arff
+2021-05-02 18:04:02,282:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3481/Task_3481_splits.arff
+2021-05-02 18:04:03,153:INFO:0.8699579s taken for [get] request for the URL https://www.openml.org/api_splits/get/3481/Task_3481_splits.arff
+2021-05-02 18:04:03,963:INFO:Running isolet (3481)
+2021-05-02 18:04:11,914:INFO:pickle write isolet
+2021-05-02 19:03:24,851:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3549
+2021-05-02 19:03:25,409:INFO:0.5573735s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3549
+2021-05-02 19:03:25,412:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/458
+2021-05-02 19:03:25,810:INFO:0.3979363s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/458
+2021-05-02 19:03:25,812:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/458
+2021-05-02 19:03:30,400:INFO:4.5877447s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/458
+2021-05-02 19:03:30,402:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/458
+2021-05-02 19:03:30,969:INFO:0.5664389s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/458
+2021-05-02 19:03:30,971:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52570/analcatdata_authorship.arff
+2021-05-02 19:03:31,552:INFO:0.5818071s taken for [get] request for the URL https://www.openml.org/data/v1/download/52570/analcatdata_authorship.arff
+2021-05-02 19:03:32,022:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3549/Task_3549_splits.arff
+2021-05-02 19:03:32,574:INFO:0.5518584s taken for [get] request for the URL https://www.openml.org/api_splits/get/3549/Task_3549_splits.arff
+2021-05-02 19:03:33,001:INFO:Running analcatdata_authorship (3549)
+2021-05-02 19:03:33,339:INFO:pickle write analcatdata_authorship
+2021-05-02 19:03:49,858:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3560
+2021-05-02 19:03:50,411:INFO:0.5516913s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3560
+2021-05-02 19:03:50,412:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/469
+2021-05-02 19:03:50,763:INFO:0.3508952s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/469
+2021-05-02 19:03:50,765:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/469
+2021-05-02 19:03:55,184:INFO:4.4187896s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/469
+2021-05-02 19:03:55,186:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/469
+2021-05-02 19:03:55,730:INFO:0.5432918s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/469
+2021-05-02 19:03:55,732:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52581/analcatdata_dmft.arff
+2021-05-02 19:03:56,147:INFO:0.4152489s taken for [get] request for the URL https://www.openml.org/data/v1/download/52581/analcatdata_dmft.arff
+2021-05-02 19:03:56,624:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3560/Task_3560_splits.arff
+2021-05-02 19:03:57,179:INFO:0.5543983s taken for [get] request for the URL https://www.openml.org/api_splits/get/3560/Task_3560_splits.arff
+2021-05-02 19:03:57,494:INFO:Running analcatdata_dmft (3560)
+2021-05-02 19:03:57,787:INFO:pickle write analcatdata_dmft
+2021-05-02 19:04:13,984:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3573
+2021-05-02 19:04:14,528:INFO:0.5427387s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3573
+2021-05-02 19:04:14,529:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/554
+2021-05-02 19:04:14,906:INFO:0.3767624s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/554
+2021-05-02 19:04:14,907:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/554
+2021-05-02 19:04:19,289:INFO:4.3822320s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/554
+2021-05-02 19:04:19,294:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/554
+2021-05-02 19:04:19,714:INFO:0.4185436s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/554
+2021-05-02 19:04:19,715:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/52667/mnist_784.arff
+2021-05-02 19:04:24,768:INFO:5.0518491s taken for [get] request for the URL https://www.openml.org/data/v1/download/52667/mnist_784.arff
+2021-05-02 19:04:25,260:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3573/Task_3573_splits.arff
+2021-05-02 19:04:26,702:INFO:1.4414303s taken for [get] request for the URL https://www.openml.org/api_splits/get/3573/Task_3573_splits.arff
+2021-05-02 19:04:31,810:INFO:Running mnist_784 (3573)
+2021-05-02 19:05:19,711:INFO:pickle write mnist_784
+2021-05-02 23:30:45,682:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3902
+2021-05-02 23:30:46,430:INFO:0.7462394s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3902
+2021-05-02 23:30:46,434:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1049
+2021-05-02 23:30:46,813:INFO:0.3789523s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1049
+2021-05-02 23:30:46,815:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1049
+2021-05-02 23:30:51,176:INFO:4.3608568s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1049
+2021-05-02 23:30:51,177:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1049
+2021-05-02 23:30:51,834:INFO:0.6572008s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1049
+2021-05-02 23:30:51,836:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53932/pc4.arff
+2021-05-02 23:30:52,529:INFO:0.6923082s taken for [get] request for the URL https://www.openml.org/data/v1/download/53932/pc4.arff
+2021-05-02 23:30:52,965:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3902/Task_3902_splits.arff
+2021-05-02 23:30:53,645:INFO:0.6805434s taken for [get] request for the URL https://www.openml.org/api_splits/get/3902/Task_3902_splits.arff
+2021-05-02 23:30:54,846:INFO:Running pc4 (3902)
+2021-05-02 23:30:55,610:INFO:pickle write pc4
+2021-05-02 23:31:30,648:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3903
+2021-05-02 23:31:31,295:INFO:0.6465902s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3903
+2021-05-02 23:31:31,298:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1050
+2021-05-02 23:31:31,737:INFO:0.4379847s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1050
+2021-05-02 23:31:31,740:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1050
+2021-05-02 23:31:36,182:INFO:4.4423249s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1050
+2021-05-02 23:31:36,183:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1050
+2021-05-02 23:31:36,902:INFO:0.7193975s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1050
+2021-05-02 23:31:36,904:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53933/pc3.arff
+2021-05-02 23:31:37,520:INFO:0.6163876s taken for [get] request for the URL https://www.openml.org/data/v1/download/53933/pc3.arff
+2021-05-02 23:31:37,986:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3903/Task_3903_splits.arff
+2021-05-02 23:31:38,593:INFO:0.6067574s taken for [get] request for the URL https://www.openml.org/api_splits/get/3903/Task_3903_splits.arff
+2021-05-02 23:31:39,243:INFO:Running pc3 (3903)
+2021-05-02 23:31:39,585:INFO:pickle write pc3
+2021-05-02 23:32:00,182:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3904
+2021-05-02 23:32:00,766:INFO:0.5826035s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3904
+2021-05-02 23:32:00,797:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1053
+2021-05-02 23:32:01,244:INFO:0.4453921s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1053
+2021-05-02 23:32:01,273:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1053
+2021-05-02 23:32:06,062:INFO:4.7887254s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1053
+2021-05-02 23:32:06,063:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1053
+2021-05-02 23:32:06,663:INFO:0.5998020s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1053
+2021-05-02 23:32:06,665:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53936/jm1.arff
+2021-05-02 23:32:07,568:INFO:0.9028702s taken for [get] request for the URL https://www.openml.org/data/v1/download/53936/jm1.arff
+2021-05-02 23:32:08,003:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3904/Task_3904_splits.arff
+2021-05-02 23:32:08,902:INFO:0.8985054s taken for [get] request for the URL https://www.openml.org/api_splits/get/3904/Task_3904_splits.arff
+2021-05-02 23:32:10,299:INFO:Running jm1 (3904)
+2021-05-02 23:32:10,869:INFO:pickle write jm1
+2021-05-02 23:33:15,415:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3913
+2021-05-02 23:33:15,918:INFO:0.5026824s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3913
+2021-05-02 23:33:15,919:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1063
+2021-05-02 23:33:16,266:INFO:0.3468056s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1063
+2021-05-02 23:33:16,267:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1063
+2021-05-02 23:33:20,508:INFO:4.2404058s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1063
+2021-05-02 23:33:20,509:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1063
+2021-05-02 23:33:20,965:INFO:0.4566550s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1063
+2021-05-02 23:33:20,966:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53946/kc2.arff
+2021-05-02 23:33:21,416:INFO:0.4497426s taken for [get] request for the URL https://www.openml.org/data/v1/download/53946/kc2.arff
+2021-05-02 23:33:21,686:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3913/Task_3913_splits.arff
+2021-05-02 23:33:22,108:INFO:0.4226615s taken for [get] request for the URL https://www.openml.org/api_splits/get/3913/Task_3913_splits.arff
+2021-05-02 23:33:22,392:INFO:Running kc2 (3913)
+2021-05-02 23:33:22,647:INFO:pickle write kc2
+2021-05-02 23:33:30,167:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3917
+2021-05-02 23:33:30,678:INFO:0.5112474s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3917
+2021-05-02 23:33:30,680:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1067
+2021-05-02 23:33:31,068:INFO:0.3863370s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1067
+2021-05-02 23:33:31,068:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1067
+2021-05-02 23:33:35,597:INFO:4.5284872s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1067
+2021-05-02 23:33:35,598:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1067
+2021-05-02 23:33:36,130:INFO:0.5319564s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1067
+2021-05-02 23:33:36,131:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53950/kc1.arff
+2021-05-02 23:33:36,728:INFO:0.5965416s taken for [get] request for the URL https://www.openml.org/data/v1/download/53950/kc1.arff
+2021-05-02 23:33:37,128:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3917/Task_3917_splits.arff
+2021-05-02 23:33:37,770:INFO:0.6404400s taken for [get] request for the URL https://www.openml.org/api_splits/get/3917/Task_3917_splits.arff
+2021-05-02 23:33:38,200:INFO:Running kc1 (3917)
+2021-05-02 23:33:38,500:INFO:pickle write kc1
+2021-05-02 23:33:52,286:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/3918
+2021-05-02 23:33:54,490:INFO:2.2047198s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/3918
+2021-05-02 23:33:54,492:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1068
+2021-05-02 23:33:54,837:INFO:0.3433514s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1068
+2021-05-02 23:33:54,839:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1068
+2021-05-02 23:33:59,664:INFO:4.8251677s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1068
+2021-05-02 23:33:59,665:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1068
+2021-05-02 23:34:00,113:INFO:0.4469371s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1068
+2021-05-02 23:34:00,114:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/53951/pc1.arff
+2021-05-02 23:34:00,645:INFO:0.5308881s taken for [get] request for the URL https://www.openml.org/data/v1/download/53951/pc1.arff
+2021-05-02 23:34:01,061:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/3918/Task_3918_splits.arff
+2021-05-02 23:34:01,547:INFO:0.4860456s taken for [get] request for the URL https://www.openml.org/api_splits/get/3918/Task_3918_splits.arff
+2021-05-02 23:34:01,896:INFO:Running pc1 (3918)
+2021-05-02 23:34:02,149:INFO:pickle write pc1
+2021-05-02 23:34:13,835:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/7592
+2021-05-02 23:34:14,325:INFO:0.4892616s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/7592
+2021-05-02 23:34:14,327:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1590
+2021-05-02 23:34:14,672:INFO:0.3452146s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1590
+2021-05-02 23:34:14,673:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1590
+2021-05-02 23:34:19,236:INFO:4.5632005s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1590
+2021-05-02 23:34:19,237:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1590
+2021-05-02 23:34:19,737:INFO:0.4996555s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1590
+2021-05-02 23:34:19,739:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1595261/adult.arff
+2021-05-02 23:34:20,790:INFO:1.0517843s taken for [get] request for the URL https://www.openml.org/data/v1/download/1595261/adult.arff
+2021-05-02 23:34:21,252:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/7592/Task_7592_splits.arff
+2021-05-02 23:34:22,481:INFO:1.2281175s taken for [get] request for the URL https://www.openml.org/api_splits/get/7592/Task_7592_splits.arff
+2021-05-02 23:34:26,178:INFO:Running adult (7592)
+2021-05-02 23:34:28,114:INFO:pickle write adult
+2021-05-02 23:43:41,897:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9910
+2021-05-02 23:43:42,441:INFO:0.5440006s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9910
+2021-05-02 23:43:42,443:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/4134
+2021-05-02 23:43:42,789:INFO:0.3459330s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/4134
+2021-05-02 23:43:42,791:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4134
+2021-05-02 23:43:47,324:INFO:4.5325720s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4134
+2021-05-02 23:43:47,327:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4134
+2021-05-02 23:43:47,845:INFO:0.5181286s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4134
+2021-05-02 23:43:47,846:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1681097/Bioresponse.arff
+2021-05-02 23:43:49,626:INFO:1.7802849s taken for [get] request for the URL https://www.openml.org/data/v1/download/1681097/Bioresponse.arff
+2021-05-02 23:43:50,052:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9910/Task_9910_splits.arff
+2021-05-02 23:43:50,753:INFO:0.7005494s taken for [get] request for the URL https://www.openml.org/api_splits/get/9910/Task_9910_splits.arff
+2021-05-02 23:43:51,280:INFO:Running Bioresponse (9910)
+2021-05-02 23:43:58,396:INFO:pickle write Bioresponse
+2021-05-02 23:57:45,113:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9946
+2021-05-02 23:57:45,658:INFO:0.5444491s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9946
+2021-05-02 23:57:45,660:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1510
+2021-05-02 23:57:46,056:INFO:0.3952005s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1510
+2021-05-02 23:57:46,057:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1510
+2021-05-02 23:57:50,445:INFO:4.3879251s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1510
+2021-05-02 23:57:50,446:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1510
+2021-05-02 23:57:51,058:INFO:0.6111565s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1510
+2021-05-02 23:57:51,059:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592318/wdbc.arff
+2021-05-02 23:57:51,588:INFO:0.5291543s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592318/wdbc.arff
+2021-05-02 23:57:51,834:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9946/Task_9946_splits.arff
+2021-05-02 23:57:52,304:INFO:0.4698343s taken for [get] request for the URL https://www.openml.org/api_splits/get/9946/Task_9946_splits.arff
+2021-05-02 23:57:52,602:INFO:Running wdbc (9946)
+2021-05-02 23:57:52,868:INFO:pickle write wdbc
+2021-05-02 23:58:11,413:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9952
+2021-05-02 23:58:11,909:INFO:0.4956520s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9952
+2021-05-02 23:58:11,911:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1489
+2021-05-02 23:58:12,292:INFO:0.3812122s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1489
+2021-05-02 23:58:12,293:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1489
+2021-05-02 23:58:16,724:INFO:4.4302838s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1489
+2021-05-02 23:58:16,725:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1489
+2021-05-02 23:58:17,084:INFO:0.3597314s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1489
+2021-05-02 23:58:17,085:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592281/phoneme.arff
+2021-05-02 23:58:18,106:INFO:1.0210295s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592281/phoneme.arff
+2021-05-02 23:58:18,543:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9952/Task_9952_splits.arff
+2021-05-02 23:58:19,237:INFO:0.6928837s taken for [get] request for the URL https://www.openml.org/api_splits/get/9952/Task_9952_splits.arff
+2021-05-02 23:58:19,988:INFO:Running phoneme (9952)
+2021-05-02 23:58:20,271:INFO:pickle write phoneme
+2021-05-02 23:58:36,671:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9957
+2021-05-02 23:58:37,040:INFO:0.3697906s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9957
+2021-05-02 23:58:37,042:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1494
+2021-05-02 23:58:37,424:INFO:0.3798702s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1494
+2021-05-02 23:58:37,425:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1494
+2021-05-02 23:58:41,695:INFO:4.2694614s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1494
+2021-05-02 23:58:41,696:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1494
+2021-05-02 23:58:42,158:INFO:0.4618368s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1494
+2021-05-02 23:58:42,159:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592286/qsar-biodeg.arff
+2021-05-02 23:58:42,676:INFO:0.5164051s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592286/qsar-biodeg.arff
+2021-05-02 23:58:42,920:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9957/Task_9957_splits.arff
+2021-05-02 23:58:43,424:INFO:0.5032773s taken for [get] request for the URL https://www.openml.org/api_splits/get/9957/Task_9957_splits.arff
+2021-05-02 23:58:43,767:INFO:Running qsar-biodeg (9957)
+2021-05-02 23:58:44,057:INFO:pickle write qsar-biodeg
+2021-05-02 23:59:02,486:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9960
+2021-05-02 23:59:03,008:INFO:0.5222318s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9960
+2021-05-02 23:59:03,010:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1497
+2021-05-02 23:59:03,355:INFO:0.3453221s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1497
+2021-05-02 23:59:03,357:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1497
+2021-05-02 23:59:07,998:INFO:4.6410272s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1497
+2021-05-02 23:59:07,999:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1497
+2021-05-02 23:59:08,575:INFO:0.5761583s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1497
+2021-05-02 23:59:08,576:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592289/wall-robot-navigation.arff
+2021-05-02 23:59:09,310:INFO:0.7327797s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592289/wall-robot-navigation.arff
+2021-05-02 23:59:09,548:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9960/Task_9960_splits.arff
+2021-05-02 23:59:10,228:INFO:0.6799698s taken for [get] request for the URL https://www.openml.org/api_splits/get/9960/Task_9960_splits.arff
+2021-05-02 23:59:10,860:INFO:Running wall-robot-navigation (9960)
+2021-05-02 23:59:11,224:INFO:pickle write wall-robot-navigation
+2021-05-02 23:59:57,207:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9964
+2021-05-02 23:59:57,712:INFO:0.5037980s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9964
+2021-05-02 23:59:57,714:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1501
+2021-05-02 23:59:58,126:INFO:0.4110258s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1501
+2021-05-02 23:59:58,128:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1501
+2021-05-03 00:00:02,596:INFO:4.4677377s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1501
+2021-05-03 00:00:02,597:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1501
+2021-05-03 00:00:03,109:INFO:0.5125535s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1501
+2021-05-03 00:00:03,111:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592293/semeion.arff
+2021-05-03 00:00:03,751:INFO:0.6401336s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592293/semeion.arff
+2021-05-03 00:00:04,144:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9964/Task_9964_splits.arff
+2021-05-03 00:00:04,668:INFO:0.5239394s taken for [get] request for the URL https://www.openml.org/api_splits/get/9964/Task_9964_splits.arff
+2021-05-03 00:00:05,067:INFO:Running semeion (9964)
+2021-05-03 00:00:05,752:INFO:pickle write semeion
+2021-05-03 00:02:59,858:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9971
+2021-05-03 00:03:00,443:INFO:0.5844777s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9971
+2021-05-03 00:03:00,445:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1480
+2021-05-03 00:03:00,814:INFO:0.3691230s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1480
+2021-05-03 00:03:00,815:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1480
+2021-05-03 00:03:05,166:INFO:4.3513234s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1480
+2021-05-03 00:03:05,167:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1480
+2021-05-03 00:03:05,692:INFO:0.5250752s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1480
+2021-05-03 00:03:05,694:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1590565/ilpd.arff
+2021-05-03 00:03:06,048:INFO:0.3539553s taken for [get] request for the URL https://www.openml.org/data/v1/download/1590565/ilpd.arff
+2021-05-03 00:03:06,505:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9971/Task_9971_splits.arff
+2021-05-03 00:03:06,983:INFO:0.4763813s taken for [get] request for the URL https://www.openml.org/api_splits/get/9971/Task_9971_splits.arff
+2021-05-03 00:03:07,302:INFO:Running ilpd (9971)
+2021-05-03 00:03:07,556:INFO:pickle write ilpd
+2021-05-03 00:03:13,294:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9976
+2021-05-03 00:03:13,833:INFO:0.5385780s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9976
+2021-05-03 00:03:13,839:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1485
+2021-05-03 00:03:14,264:INFO:0.4241698s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1485
+2021-05-03 00:03:14,266:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1485
+2021-05-03 00:03:18,786:INFO:4.5187130s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1485
+2021-05-03 00:03:18,788:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1485
+2021-05-03 00:03:19,195:INFO:0.4076791s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1485
+2021-05-03 00:03:19,197:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1590986/madelon.arff
+2021-05-03 00:03:20,647:INFO:1.4488943s taken for [get] request for the URL https://www.openml.org/data/v1/download/1590986/madelon.arff
+2021-05-03 00:03:21,069:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9976/Task_9976_splits.arff
+2021-05-03 00:03:21,742:INFO:0.6730812s taken for [get] request for the URL https://www.openml.org/api_splits/get/9976/Task_9976_splits.arff
+2021-05-03 00:03:22,245:INFO:Running madelon (9976)
+2021-05-03 00:03:23,636:INFO:pickle write madelon
+2021-05-03 00:09:47,020:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9977
+2021-05-03 00:09:47,535:INFO:0.5144486s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9977
+2021-05-03 00:09:47,537:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1486
+2021-05-03 00:09:47,929:INFO:0.3920124s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1486
+2021-05-03 00:09:47,931:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1486
+2021-05-03 00:09:52,444:INFO:4.5126402s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1486
+2021-05-03 00:09:52,446:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1486
+2021-05-03 00:09:52,879:INFO:0.4338017s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1486
+2021-05-03 00:09:52,881:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592278/nomao.arff
+2021-05-03 00:09:54,255:INFO:1.3730330s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592278/nomao.arff
+2021-05-03 00:09:54,698:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9977/Task_9977_splits.arff
+2021-05-03 00:09:55,808:INFO:1.1102765s taken for [get] request for the URL https://www.openml.org/api_splits/get/9977/Task_9977_splits.arff
+2021-05-03 00:09:58,653:INFO:Running nomao (9977)
+2021-05-03 00:10:03,715:INFO:pickle write nomao
+2021-05-03 00:24:33,858:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9978
+2021-05-03 00:24:34,500:INFO:0.6419675s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9978
+2021-05-03 00:24:34,515:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1487
+2021-05-03 00:24:35,044:INFO:0.5285292s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1487
+2021-05-03 00:24:35,048:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1487
+2021-05-03 00:24:53,060:INFO:18.0120547s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1487
+2021-05-03 00:24:53,061:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1487
+2021-05-03 00:24:53,777:INFO:0.7157586s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1487
+2021-05-03 00:24:53,780:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1592279/ozone-level-8hr.arff
+2021-05-03 00:24:54,709:INFO:0.9278224s taken for [get] request for the URL https://www.openml.org/data/v1/download/1592279/ozone-level-8hr.arff
+2021-05-03 00:24:55,139:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9978/Task_9978_splits.arff
+2021-05-03 00:24:55,856:INFO:0.7172027s taken for [get] request for the URL https://www.openml.org/api_splits/get/9978/Task_9978_splits.arff
+2021-05-03 00:24:56,357:INFO:Running ozone-level-8hr (9978)
+2021-05-03 00:24:56,779:INFO:pickle write ozone-level-8hr
+2021-05-03 00:25:55,166:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9981
+2021-05-03 00:26:02,173:INFO:7.0072982s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9981
+2021-05-03 00:26:02,179:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1468
+2021-05-03 00:26:02,694:INFO:0.5151513s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1468
+2021-05-03 00:26:02,696:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1468
+2021-05-03 00:26:16,488:INFO:13.7916408s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1468
+2021-05-03 00:26:16,492:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1468
+2021-05-03 00:26:17,051:INFO:0.5596538s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1468
+2021-05-03 00:26:17,054:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1586233/cnae-9.arff
+2021-05-03 00:26:17,700:INFO:0.6457846s taken for [get] request for the URL https://www.openml.org/data/v1/download/1586233/cnae-9.arff
+2021-05-03 00:26:18,200:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9981/Task_9981_splits.arff
+2021-05-03 00:26:18,793:INFO:0.5933392s taken for [get] request for the URL https://www.openml.org/api_splits/get/9981/Task_9981_splits.arff
+2021-05-03 00:26:19,167:INFO:Running cnae-9 (9981)
+2021-05-03 00:26:20,630:INFO:pickle write cnae-9
+2021-05-03 00:33:17,733:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/9985
+2021-05-03 00:33:18,614:INFO:0.8807037s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/9985
+2021-05-03 00:33:18,619:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1475
+2021-05-03 00:33:19,231:INFO:0.6118417s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1475
+2021-05-03 00:33:19,233:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1475
+2021-05-03 00:33:32,080:INFO:12.8477528s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1475
+2021-05-03 00:33:32,082:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1475
+2021-05-03 00:33:32,956:INFO:0.8734167s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1475
+2021-05-03 00:33:32,960:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1587932/first-order-theorem-proving.arff
+2021-05-03 00:33:34,368:INFO:1.4072230s taken for [get] request for the URL https://www.openml.org/data/v1/download/1587932/first-order-theorem-proving.arff
+2021-05-03 00:33:34,964:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/9985/Task_9985_splits.arff
+2021-05-03 00:33:35,731:INFO:0.7673109s taken for [get] request for the URL https://www.openml.org/api_splits/get/9985/Task_9985_splits.arff
+2021-05-03 00:33:36,764:INFO:Running first-order-theorem-proving (9985)
+2021-05-03 00:33:37,456:INFO:pickle write first-order-theorem-proving
+2021-05-03 00:36:00,381:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/10093
+2021-05-03 00:36:01,329:INFO:0.9477506s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/10093
+2021-05-03 00:36:01,332:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1462
+2021-05-03 00:36:01,863:INFO:0.5303073s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1462
+2021-05-03 00:36:01,865:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1462
+2021-05-03 00:36:13,957:INFO:12.0919120s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1462
+2021-05-03 00:36:13,961:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1462
+2021-05-03 00:36:14,752:INFO:0.7900829s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1462
+2021-05-03 00:36:14,756:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1586223/banknote-authentication.arff
+2021-05-03 00:36:15,328:INFO:0.5696485s taken for [get] request for the URL https://www.openml.org/data/v1/download/1586223/banknote-authentication.arff
+2021-05-03 00:36:15,597:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/10093/Task_10093_splits.arff
+2021-05-03 00:36:16,288:INFO:0.6915851s taken for [get] request for the URL https://www.openml.org/api_splits/get/10093/Task_10093_splits.arff
+2021-05-03 00:36:16,845:INFO:Running banknote-authentication (10093)
+2021-05-03 00:36:17,095:INFO:pickle write banknote-authentication
+2021-05-03 00:36:24,208:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/10101
+2021-05-03 00:36:24,882:INFO:0.6741748s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/10101
+2021-05-03 00:36:24,888:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1464
+2021-05-03 00:36:26,525:INFO:1.6361387s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1464
+2021-05-03 00:36:26,531:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1464
+2021-05-03 00:36:41,332:INFO:14.8006153s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1464
+2021-05-03 00:36:41,333:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1464
+2021-05-03 00:36:42,082:INFO:0.7490952s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1464
+2021-05-03 00:36:42,084:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1586225/blood-transfusion-service-center.arff
+2021-05-03 00:36:42,641:INFO:0.5551033s taken for [get] request for the URL https://www.openml.org/data/v1/download/1586225/blood-transfusion-service-center.arff
+2021-05-03 00:36:43,023:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/10101/Task_10101_splits.arff
+2021-05-03 00:36:43,564:INFO:0.5399246s taken for [get] request for the URL https://www.openml.org/api_splits/get/10101/Task_10101_splits.arff
+2021-05-03 00:36:43,965:INFO:Running blood-transfusion-service-center (10101)
+2021-05-03 00:36:44,212:INFO:pickle write blood-transfusion-service-center
+2021-05-03 00:36:49,965:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14952
+2021-05-03 00:36:53,956:INFO:3.9901676s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14952
+2021-05-03 00:36:53,958:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/4534
+2021-05-03 00:36:54,423:INFO:0.4638946s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/4534
+2021-05-03 00:36:54,425:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4534
+2021-05-03 00:37:07,794:INFO:13.3685958s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4534
+2021-05-03 00:37:07,798:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4534
+2021-05-03 00:37:09,935:INFO:2.1355748s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4534
+2021-05-03 00:37:09,938:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1798106/PhishingWebsites.arff
+2021-05-03 00:37:10,606:INFO:0.6679780s taken for [get] request for the URL https://www.openml.org/data/v1/download/1798106/PhishingWebsites.arff
+2021-05-03 00:37:11,203:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14952/Task_14952_splits.arff
+2021-05-03 00:37:12,606:INFO:1.4032583s taken for [get] request for the URL https://www.openml.org/api_splits/get/14952/Task_14952_splits.arff
+2021-05-03 00:37:13,963:INFO:Running PhishingWebsites (14952)
+2021-05-03 00:37:14,832:INFO:pickle write PhishingWebsites
+2021-05-03 00:38:13,232:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14954
+2021-05-03 00:38:15,069:INFO:1.8361638s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14954
+2021-05-03 00:38:15,079:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/6332
+2021-05-03 00:38:15,502:INFO:0.4229546s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/6332
+2021-05-03 00:38:15,507:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/6332
+2021-05-03 00:38:27,907:INFO:12.3990064s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/6332
+2021-05-03 00:38:27,910:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/6332
+2021-05-03 00:38:28,398:INFO:0.4876633s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/6332
+2021-05-03 00:38:28,407:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1854224/cylinder-bands.arff
+2021-05-03 00:38:29,121:INFO:0.7119396s taken for [get] request for the URL https://www.openml.org/data/v1/download/1854224/cylinder-bands.arff
+2021-05-03 00:38:29,512:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14954/Task_14954_splits.arff
+2021-05-03 00:38:30,198:INFO:0.6863036s taken for [get] request for the URL https://www.openml.org/api_splits/get/14954/Task_14954_splits.arff
+2021-05-03 00:38:30,651:INFO:Running cylinder-bands (14954)
+2021-05-03 00:38:31,082:INFO:pickle write cylinder-bands
+2021-05-03 00:38:31,086:INFO:Going to remove the following attributes: ['timestamp', 'cylinder_number']
+2021-05-03 00:38:49,118:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14965
+2021-05-03 00:38:49,986:INFO:0.8680098s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14965
+2021-05-03 00:38:49,996:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1461
+2021-05-03 00:38:50,541:INFO:0.5450563s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1461
+2021-05-03 00:38:50,546:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1461
+2021-05-03 00:39:02,693:INFO:12.1453009s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1461
+2021-05-03 00:39:02,694:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1461
+2021-05-03 00:39:03,235:INFO:0.5414245s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1461
+2021-05-03 00:39:03,241:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1586218/bank-marketing.arff
+2021-05-03 00:39:04,283:INFO:1.0404587s taken for [get] request for the URL https://www.openml.org/data/v1/download/1586218/bank-marketing.arff
+2021-05-03 00:39:04,781:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14965/Task_14965_splits.arff
+2021-05-03 00:39:06,876:INFO:2.0954101s taken for [get] request for the URL https://www.openml.org/api_splits/get/14965/Task_14965_splits.arff
+2021-05-03 00:39:10,922:INFO:Running bank-marketing (14965)
+2021-05-03 00:39:12,525:INFO:pickle write bank-marketing
+2021-05-03 00:45:32,220:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14969
+2021-05-03 00:45:32,748:INFO:0.5284693s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14969
+2021-05-03 00:45:32,749:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/4538
+2021-05-03 00:45:34,299:INFO:1.5481837s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/4538
+2021-05-03 00:45:34,300:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4538
+2021-05-03 00:45:46,698:INFO:12.3970163s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/4538
+2021-05-03 00:45:46,699:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4538
+2021-05-03 00:45:47,316:INFO:0.6175265s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/4538
+2021-05-03 00:45:47,317:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1798765/GesturePhaseSegmentationProcessed.arff
+2021-05-03 00:45:48,550:INFO:1.2328250s taken for [get] request for the URL https://www.openml.org/data/v1/download/1798765/GesturePhaseSegmentationProcessed.arff
+2021-05-03 00:45:48,813:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14969/Task_14969_splits.arff
+2021-05-03 00:45:49,796:INFO:0.9828959s taken for [get] request for the URL https://www.openml.org/api_splits/get/14969/Task_14969_splits.arff
+2021-05-03 00:45:51,026:INFO:Running GesturePhaseSegmentationProcessed (14969)
+2021-05-03 00:45:51,879:INFO:pickle write GesturePhaseSegmentationProcessed
+2021-05-03 00:49:13,197:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/14970
+2021-05-03 00:49:14,978:INFO:1.7802901s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/14970
+2021-05-03 00:49:14,980:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/1478
+2021-05-03 00:49:15,330:INFO:0.3494315s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/1478
+2021-05-03 00:49:15,331:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1478
+2021-05-03 00:49:28,278:INFO:12.9468052s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/1478
+2021-05-03 00:49:28,281:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1478
+2021-05-03 00:49:28,818:INFO:0.5372763s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/1478
+2021-05-03 00:49:28,821:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1589271/har.arff
+2021-05-03 00:49:37,648:INFO:8.8255477s taken for [get] request for the URL https://www.openml.org/data/v1/download/1589271/har.arff
+2021-05-03 00:49:38,059:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/14970/Task_14970_splits.arff
+2021-05-03 00:49:38,898:INFO:0.8385000s taken for [get] request for the URL https://www.openml.org/api_splits/get/14970/Task_14970_splits.arff
+2021-05-03 00:49:40,339:INFO:Running har (14970)
+2021-05-03 00:49:48,837:INFO:pickle write har
+2021-05-03 00:57:33,817:INFO:mode=CREATE
+2021-05-03 00:57:33,817:INFO:cv=10
+2021-05-03 00:57:33,817:INFO:n_estimators=50
+2021-05-03 00:57:33,817:INFO:n_jobs=1
+2021-05-03 00:57:33,817:INFO:max_bins=255
+2021-05-03 00:57:33,817:INFO:max_features=None
+2021-05-03 00:57:33,817:INFO:start_id=None
+2021-05-03 00:57:33,817:INFO:stop_id=None
+2021-05-03 00:57:33,818:INFO:honest_prior=ignore
+2021-05-03 00:57:33,818:INFO:parallel_tasks=1
+2021-05-03 00:57:33,818:INFO:vary_samples=False
+2021-05-03 00:57:33,818:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-03 00:57:35,433:INFO:1.6149938s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-03 00:57:36,057:INFO:Running kr-vs-kp (3)
+2021-05-03 00:57:36,290:INFO:pickle load data kr-vs-kp
+2021-05-03 00:57:36,327:INFO:NumExpr defaulting to 4 threads.
+2021-05-03 00:58:05,361:INFO:Running letter (6)
+2021-05-03 00:58:05,573:INFO:pickle load data letter
+2021-05-03 01:05:24,550:INFO:Running balance-scale (11)
+2021-05-03 01:05:24,784:INFO:pickle load data balance-scale
+2021-05-03 01:05:38,806:INFO:Running mfeat-factors (12)
+2021-05-03 01:05:39,014:INFO:pickle load data mfeat-factors
+2021-05-03 01:18:18,629:INFO:Running mfeat-fourier (14)
+2021-05-03 01:18:18,851:INFO:pickle load data mfeat-fourier
+2021-05-03 01:28:12,451:INFO:Running breast-w (15)
+2021-05-03 01:28:12,671:INFO:pickle load data breast-w
+2021-05-03 01:28:40,828:INFO:Running mfeat-karhunen (16)
+2021-05-03 01:28:41,038:INFO:pickle load data mfeat-karhunen
+2021-05-03 01:38:00,993:INFO:Running mfeat-morphological (18)
+2021-05-03 01:38:01,245:INFO:pickle load data mfeat-morphological
+2021-05-03 01:41:08,911:INFO:Running mfeat-zernike (22)
+2021-05-03 01:41:09,150:INFO:pickle load data mfeat-zernike
+2021-05-03 01:50:03,292:INFO:Running cmc (23)
+2021-05-03 01:50:03,546:INFO:pickle load data cmc
+2021-05-03 01:51:39,115:INFO:Running optdigits (28)
+2021-05-03 01:51:39,358:INFO:pickle load data optdigits
+2021-05-03 02:00:46,678:INFO:Running credit-approval (29)
+2021-05-03 02:00:46,897:INFO:pickle load data credit-approval
+2021-05-03 02:01:39,684:INFO:Running credit-g (31)
+2021-05-03 02:01:39,939:INFO:pickle load data credit-g
+2021-05-03 02:02:59,550:INFO:Running pendigits (32)
+2021-05-03 02:02:59,761:INFO:pickle load data pendigits
+2021-05-03 02:10:13,809:INFO:Running diabetes (37)
+2021-05-03 02:10:14,028:INFO:pickle load data diabetes
+2021-05-03 02:11:06,191:INFO:Running spambase (43)
+2021-05-03 02:11:06,449:INFO:pickle load data spambase
+2021-05-03 02:16:28,840:INFO:Running splice (45)
+2021-05-03 02:16:29,060:INFO:pickle load data splice
+2021-05-03 02:16:29,124:INFO:Going to remove the following attributes: ['Instance_name']
+2021-05-03 02:26:02,800:INFO:Running tic-tac-toe (49)
+2021-05-03 02:26:03,018:INFO:pickle load data tic-tac-toe
+2021-05-03 02:26:46,584:INFO:Running vehicle (53)
+2021-05-03 02:26:46,834:INFO:pickle load data vehicle
+2021-05-03 02:28:09,112:INFO:Running electricity (219)
+2021-05-03 02:28:09,328:INFO:pickle load data electricity
+2021-05-03 02:55:01,869:INFO:mode=CREATE
+2021-05-03 02:55:01,869:INFO:cv=10
+2021-05-03 02:55:01,870:INFO:n_estimators=50
+2021-05-03 02:55:01,870:INFO:n_jobs=1
+2021-05-03 02:55:01,870:INFO:max_bins=255
+2021-05-03 02:55:01,871:INFO:max_features=None
+2021-05-03 02:55:01,871:INFO:start_id=None
+2021-05-03 02:55:01,871:INFO:stop_id=None
+2021-05-03 02:55:01,871:INFO:honest_prior=ignore
+2021-05-03 02:55:01,871:INFO:parallel_tasks=1
+2021-05-03 02:55:01,871:INFO:vary_samples=False
+2021-05-03 02:55:01,871:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-03 02:55:02,393:INFO:0.5216341s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-03 02:55:03,091:INFO:Running kr-vs-kp (3)
+2021-05-03 02:55:03,297:INFO:pickle load data kr-vs-kp
+2021-05-03 02:55:03,325:INFO:NumExpr defaulting to 4 threads.
+2021-05-03 02:55:24,959:INFO:Running letter (6)
+2021-05-03 02:55:25,163:INFO:pickle load data letter
+2021-05-03 02:58:33,176:INFO:Running balance-scale (11)
+2021-05-03 02:58:33,383:INFO:pickle load data balance-scale
+2021-05-03 02:58:41,268:INFO:Running mfeat-factors (12)
+2021-05-03 02:58:41,510:INFO:pickle load data mfeat-factors
+2021-05-03 03:02:44,520:INFO:Running mfeat-fourier (14)
+2021-05-03 03:02:44,730:INFO:pickle load data mfeat-fourier
+2021-05-03 03:05:05,994:INFO:Running breast-w (15)
+2021-05-03 03:05:06,225:INFO:pickle load data breast-w
+2021-05-03 03:05:11,859:INFO:Running mfeat-karhunen (16)
+2021-05-03 03:05:12,093:INFO:pickle load data mfeat-karhunen
+2021-05-03 03:07:07,002:INFO:Running mfeat-morphological (18)
+2021-05-03 03:07:07,257:INFO:pickle load data mfeat-morphological
+2021-05-03 03:07:31,777:INFO:Running mfeat-zernike (22)
+2021-05-03 03:07:32,008:INFO:pickle load data mfeat-zernike
+2021-05-03 03:09:12,334:INFO:Running cmc (23)
+2021-05-03 03:09:12,567:INFO:pickle load data cmc
+2021-05-03 03:09:28,647:INFO:Running optdigits (28)
+2021-05-03 03:09:28,878:INFO:pickle load data optdigits
+2021-05-03 03:11:08,710:INFO:Running credit-approval (29)
+2021-05-03 03:11:08,923:INFO:pickle load data credit-approval
+2021-05-03 03:11:18,994:INFO:Running credit-g (31)
+2021-05-03 03:11:19,204:INFO:pickle load data credit-g
+2021-05-03 03:11:33,716:INFO:Running pendigits (32)
+2021-05-03 03:11:33,949:INFO:pickle load data pendigits
+2021-05-03 03:12:56,360:INFO:Running diabetes (37)
+2021-05-03 03:12:56,565:INFO:pickle load data diabetes
+2021-05-03 03:13:04,491:INFO:Running spambase (43)
+2021-05-03 03:13:04,697:INFO:pickle load data spambase
+2021-05-03 03:14:05,760:INFO:Running splice (45)
+2021-05-03 03:14:05,995:INFO:pickle load data splice
+2021-05-03 03:14:06,008:INFO:Going to remove the following attributes: ['Instance_name']
+2021-05-03 03:16:06,467:INFO:Running tic-tac-toe (49)
+2021-05-03 03:16:06,695:INFO:pickle load data tic-tac-toe
+2021-05-03 03:16:14,802:INFO:Running vehicle (53)
+2021-05-03 03:16:15,016:INFO:pickle load data vehicle
+2021-05-03 03:16:30,201:INFO:Running electricity (219)
+2021-05-03 03:16:30,443:INFO:pickle load data electricity
+2021-05-03 03:20:29,100:INFO:Running satimage (2074)
+2021-05-03 03:20:29,330:INFO:pickle load data satimage
+2021-05-03 03:21:53,736:INFO:Running eucalyptus (2079)
+2021-05-03 03:21:53,965:INFO:pickle load data eucalyptus
+2021-05-03 03:22:18,110:INFO:Running sick (3021)
+2021-05-03 03:22:18,316:INFO:pickle load data sick
+2021-05-03 03:22:37,017:INFO:Running vowel (3022)
+2021-05-03 03:22:37,226:INFO:pickle load data vowel
+2021-05-03 03:23:08,673:INFO:Running isolet (3481)
+2021-05-03 03:23:08,881:INFO:pickle load data isolet
+2021-05-03 04:40:11,421:INFO:Running analcatdata_authorship (3549)
+2021-05-03 04:40:11,632:INFO:pickle load data analcatdata_authorship
+2021-05-03 04:40:31,507:INFO:Running analcatdata_dmft (3560)
+2021-05-03 04:40:31,737:INFO:pickle load data analcatdata_dmft
+2021-05-03 04:40:49,593:INFO:Running mnist_784 (3573)
+2021-05-03 04:40:49,839:INFO:pickle load data mnist_784
+2021-05-03 09:08:53,357:INFO:Running pc4 (3902)
+2021-05-03 09:08:53,595:INFO:pickle load data pc4
+2021-05-03 09:09:10,817:INFO:Running pc3 (3903)
+2021-05-03 09:09:11,030:INFO:pickle load data pc3
+2021-05-03 09:09:33,257:INFO:Running jm1 (3904)
+2021-05-03 09:09:33,463:INFO:pickle load data jm1
+2021-05-03 09:11:01,222:INFO:Running kc2 (3913)
+2021-05-03 09:11:01,454:INFO:pickle load data kc2
+2021-05-03 09:11:10,256:INFO:Running kc1 (3917)
+2021-05-03 09:11:10,491:INFO:pickle load data kc1
+2021-05-03 09:11:27,490:INFO:Running pc1 (3918)
+2021-05-03 09:11:27,700:INFO:pickle load data pc1
+2021-05-03 09:11:41,912:INFO:Running adult (7592)
+2021-05-03 09:11:42,145:INFO:pickle load data adult
+2021-05-03 09:23:57,440:INFO:Running Bioresponse (9910)
+2021-05-03 09:23:57,676:INFO:pickle load data Bioresponse
+2021-05-03 09:40:12,061:INFO:Running wdbc (9946)
+2021-05-03 09:40:12,268:INFO:pickle load data wdbc
+2021-05-03 09:40:32,355:INFO:Running phoneme (9952)
+2021-05-03 09:40:32,588:INFO:pickle load data phoneme
+2021-05-03 09:40:56,382:INFO:Running qsar-biodeg (9957)
+2021-05-03 09:40:56,617:INFO:pickle load data qsar-biodeg
+2021-05-03 09:41:21,801:INFO:Running wall-robot-navigation (9960)
+2021-05-03 09:41:22,012:INFO:pickle load data wall-robot-navigation
+2021-05-03 09:42:22,483:INFO:Running semeion (9964)
+2021-05-03 09:42:22,721:INFO:pickle load data semeion
+2021-05-03 09:45:07,299:INFO:Running ilpd (9971)
+2021-05-03 09:45:07,531:INFO:pickle load data ilpd
+2021-05-03 09:45:14,852:INFO:Running madelon (9976)
+2021-05-03 09:45:15,061:INFO:pickle load data madelon
+2021-05-03 09:53:19,718:INFO:Running nomao (9977)
+2021-05-03 09:53:19,925:INFO:pickle load data nomao
+2021-05-03 10:10:57,782:INFO:Running ozone-level-8hr (9978)
+2021-05-03 10:10:57,999:INFO:pickle load data ozone-level-8hr
+2021-05-03 10:12:09,053:INFO:Running cnae-9 (9981)
+2021-05-03 10:12:09,284:INFO:pickle load data cnae-9
+2021-05-03 10:17:54,492:INFO:Running first-order-theorem-proving (9985)
+2021-05-03 10:17:54,699:INFO:pickle load data first-order-theorem-proving
+2021-05-03 10:21:41,187:INFO:Running banknote-authentication (10093)
+2021-05-03 10:21:41,398:INFO:pickle load data banknote-authentication
+2021-05-03 10:21:55,071:INFO:Running blood-transfusion-service-center (10101)
+2021-05-03 10:21:55,291:INFO:pickle load data blood-transfusion-service-center
+2021-05-03 10:22:05,875:INFO:Running PhishingWebsites (14952)
+2021-05-03 10:22:06,106:INFO:pickle load data PhishingWebsites
+2021-05-03 10:23:41,973:INFO:Running cylinder-bands (14954)
+2021-05-03 10:23:42,208:INFO:pickle load data cylinder-bands
+2021-05-03 10:23:42,228:INFO:Going to remove the following attributes: ['timestamp', 'cylinder_number']
+2021-05-03 10:24:12,045:INFO:Running bank-marketing (14965)
+2021-05-03 10:24:12,258:INFO:pickle load data bank-marketing
+2021-05-03 10:35:36,357:INFO:Running GesturePhaseSegmentationProcessed (14969)
+2021-05-03 10:35:36,586:INFO:pickle load data GesturePhaseSegmentationProcessed
+2021-05-03 10:41:41,755:INFO:Running har (14970)
+2021-05-03 10:41:41,985:INFO:pickle load data har
+2021-05-03 12:14:37,846:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/125920
+2021-05-03 12:14:38,581:INFO:0.7341158s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/125920
+2021-05-03 12:14:38,592:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/23381
+2021-05-03 12:14:39,041:INFO:0.4485085s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/23381
+2021-05-03 12:14:39,071:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23381
+2021-05-03 12:14:43,747:INFO:4.6755981s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23381
+2021-05-03 12:14:43,748:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23381
+2021-05-03 12:14:44,619:INFO:0.8696768s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23381
+2021-05-03 12:14:44,625:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/1910507/dresses-sales.arff
+2021-05-03 12:14:45,086:INFO:0.4606564s taken for [get] request for the URL https://www.openml.org/data/v1/download/1910507/dresses-sales.arff
+2021-05-03 12:14:45,593:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/125920/Task_125920_splits.arff
+2021-05-03 12:14:46,207:INFO:0.6144655s taken for [get] request for the URL https://www.openml.org/api_splits/get/125920/Task_125920_splits.arff
+2021-05-03 12:14:46,715:INFO:Running dresses-sales (125920)
+2021-05-03 12:14:47,177:INFO:pickle write dresses-sales
+2021-05-03 12:15:09,545:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/125922
+2021-05-03 12:15:10,225:INFO:0.6794889s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/125922
+2021-05-03 12:15:10,235:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40499
+2021-05-03 12:15:10,701:INFO:0.4663823s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40499
+2021-05-03 12:15:10,711:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40499
+2021-05-03 12:15:15,073:INFO:4.3614471s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40499
+2021-05-03 12:15:15,074:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40499
+2021-05-03 12:15:15,522:INFO:0.4476359s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40499
+2021-05-03 12:15:15,529:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/4535764/texture.arff
+2021-05-03 12:15:16,480:INFO:0.9497497s taken for [get] request for the URL https://www.openml.org/data/v1/download/4535764/texture.arff
+2021-05-03 12:15:16,850:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/125922/Task_125922_splits.arff
+2021-05-03 12:15:17,604:INFO:0.7539432s taken for [get] request for the URL https://www.openml.org/api_splits/get/125922/Task_125922_splits.arff
+2021-05-03 12:15:20,362:INFO:Running texture (125922)
+2021-05-03 12:15:21,747:INFO:pickle write texture
+2021-05-03 12:19:23,228:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146195
+2021-05-03 12:19:23,778:INFO:0.5497561s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146195
+2021-05-03 12:19:23,781:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40668
+2021-05-03 12:19:24,206:INFO:0.4244475s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40668
+2021-05-03 12:19:24,208:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40668
+2021-05-03 12:19:28,391:INFO:4.1838801s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40668
+2021-05-03 12:19:28,392:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40668
+2021-05-03 12:19:28,918:INFO:0.5249312s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40668
+2021-05-03 12:19:28,920:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/4965243/connect-4.arff
+2021-05-03 12:19:29,927:INFO:1.0059879s taken for [get] request for the URL https://www.openml.org/data/v1/download/4965243/connect-4.arff
+2021-05-03 12:19:30,355:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146195/Task_146195_splits.arff
+2021-05-03 12:19:32,008:INFO:1.6525302s taken for [get] request for the URL https://www.openml.org/api_splits/get/146195/Task_146195_splits.arff
+2021-05-03 12:19:41,173:INFO:Running connect-4 (146195)
+2021-05-03 12:19:48,495:INFO:pickle write connect-4
+2021-05-03 12:46:32,037:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146800
+2021-05-03 12:46:32,561:INFO:0.5213957s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146800
+2021-05-03 12:46:32,563:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40966
+2021-05-03 12:46:32,927:INFO:0.3643236s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40966
+2021-05-03 12:46:32,929:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40966
+2021-05-03 12:46:37,467:INFO:4.5379500s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40966
+2021-05-03 12:46:37,470:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40966
+2021-05-03 12:46:38,064:INFO:0.5940938s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40966
+2021-05-03 12:46:38,069:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/17928620/MiceProtein.arff
+2021-05-03 12:46:39,130:INFO:1.0597026s taken for [get] request for the URL https://www.openml.org/data/v1/download/17928620/MiceProtein.arff
+2021-05-03 12:46:39,607:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146800/Task_146800_splits.arff
+2021-05-03 12:46:40,088:INFO:0.4810307s taken for [get] request for the URL https://www.openml.org/api_splits/get/146800/Task_146800_splits.arff
+2021-05-03 12:46:40,498:INFO:Running MiceProtein (146800)
+2021-05-03 12:46:40,962:INFO:pickle write MiceProtein
+2021-05-03 12:46:40,964:INFO:Going to remove the following attributes: ['MouseID', 'Genotype', 'Treatment', 'Behavior']
+2021-05-03 12:48:56,305:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146817
+2021-05-03 12:48:56,898:INFO:0.5929492s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146817
+2021-05-03 12:48:56,901:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40982
+2021-05-03 12:48:57,288:INFO:0.3874655s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40982
+2021-05-03 12:48:57,293:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40982
+2021-05-03 12:49:01,859:INFO:4.5659313s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40982
+2021-05-03 12:49:01,860:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40982
+2021-05-03 12:49:02,444:INFO:0.5835309s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40982
+2021-05-03 12:49:02,446:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18151921/steel-plates-fault.arff
+2021-05-03 12:49:03,080:INFO:0.6332598s taken for [get] request for the URL https://www.openml.org/data/v1/download/18151921/steel-plates-fault.arff
+2021-05-03 12:49:03,557:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146817/Task_146817_splits.arff
+2021-05-03 12:49:04,175:INFO:0.6177387s taken for [get] request for the URL https://www.openml.org/api_splits/get/146817/Task_146817_splits.arff
+2021-05-03 12:49:04,779:INFO:Running steel-plates-fault (146817)
+2021-05-03 12:49:05,314:INFO:pickle write steel-plates-fault
+2021-05-03 12:50:05,111:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146819
+2021-05-03 12:50:05,676:INFO:0.5638106s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146819
+2021-05-03 12:50:05,679:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40994
+2021-05-03 12:50:06,095:INFO:0.4159429s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40994
+2021-05-03 12:50:06,097:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40994
+2021-05-03 12:50:10,354:INFO:4.2564900s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40994
+2021-05-03 12:50:10,355:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40994
+2021-05-03 12:50:10,875:INFO:0.5198631s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40994
+2021-05-03 12:50:10,877:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18237248/climate-model-simulation-crashes.arff
+2021-05-03 12:50:11,593:INFO:0.7160008s taken for [get] request for the URL https://www.openml.org/data/v1/download/18237248/climate-model-simulation-crashes.arff
+2021-05-03 12:50:12,029:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146819/Task_146819_splits.arff
+2021-05-03 12:50:12,522:INFO:0.4929817s taken for [get] request for the URL https://www.openml.org/api_splits/get/146819/Task_146819_splits.arff
+2021-05-03 12:50:12,856:INFO:Running climate-model-simulation-crashes (146819)
+2021-05-03 12:50:13,129:INFO:pickle write climate-model-simulation-crashes
+2021-05-03 12:50:13,130:INFO:Going to remove the following attributes: ['Study', 'Run']
+2021-05-03 12:50:30,114:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146820
+2021-05-03 12:50:30,726:INFO:0.6119359s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146820
+2021-05-03 12:50:30,731:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40983
+2021-05-03 12:50:31,088:INFO:0.3560908s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40983
+2021-05-03 12:50:31,089:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40983
+2021-05-03 12:50:35,349:INFO:4.2590876s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40983
+2021-05-03 12:50:35,351:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40983
+2021-05-03 12:50:35,841:INFO:0.4899130s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40983
+2021-05-03 12:50:35,842:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18151926/wilt.arff
+2021-05-03 12:50:36,662:INFO:0.8188407s taken for [get] request for the URL https://www.openml.org/data/v1/download/18151926/wilt.arff
+2021-05-03 12:50:36,923:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146820/Task_146820_splits.arff
+2021-05-03 12:50:37,703:INFO:0.7785416s taken for [get] request for the URL https://www.openml.org/api_splits/get/146820/Task_146820_splits.arff
+2021-05-03 12:50:38,425:INFO:Running wilt (146820)
+2021-05-03 12:50:38,730:INFO:pickle write wilt
+2021-05-03 12:50:59,597:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146821
+2021-05-03 12:51:00,164:INFO:0.5674834s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146821
+2021-05-03 12:51:00,170:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40975
+2021-05-03 12:51:00,560:INFO:0.3883893s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40975
+2021-05-03 12:51:00,562:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40975
+2021-05-03 12:51:04,909:INFO:4.3466403s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40975
+2021-05-03 12:51:04,910:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40975
+2021-05-03 12:51:05,342:INFO:0.4314094s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40975
+2021-05-03 12:51:05,346:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18116966/car.arff
+2021-05-03 12:51:05,744:INFO:0.3987024s taken for [get] request for the URL https://www.openml.org/data/v1/download/18116966/car.arff
+2021-05-03 12:51:06,159:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146821/Task_146821_splits.arff
+2021-05-03 12:51:06,743:INFO:0.5840619s taken for [get] request for the URL https://www.openml.org/api_splits/get/146821/Task_146821_splits.arff
+2021-05-03 12:51:07,305:INFO:Running car (146821)
+2021-05-03 12:51:07,655:INFO:pickle write car
+2021-05-03 12:51:28,696:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146822
+2021-05-03 12:51:29,284:INFO:0.5882702s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146822
+2021-05-03 12:51:29,290:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40984
+2021-05-03 12:51:29,731:INFO:0.4407418s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40984
+2021-05-03 12:51:29,735:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40984
+2021-05-03 12:51:34,059:INFO:4.3244958s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40984
+2021-05-03 12:51:34,059:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40984
+2021-05-03 12:51:34,524:INFO:0.4644330s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40984
+2021-05-03 12:51:34,525:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18151937/segment.arff
+2021-05-03 12:51:35,162:INFO:0.6366839s taken for [get] request for the URL https://www.openml.org/data/v1/download/18151937/segment.arff
+2021-05-03 12:51:35,557:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146822/Task_146822_splits.arff
+2021-05-03 12:51:36,208:INFO:0.6512740s taken for [get] request for the URL https://www.openml.org/api_splits/get/146822/Task_146822_splits.arff
+2021-05-03 12:51:36,773:INFO:Running segment (146822)
+2021-05-03 12:51:37,133:INFO:pickle write segment
+2021-05-03 12:51:37,135:INFO:Going to remove the following attributes: ['region.centroid.col', 'region.centroid.row', 'region.pixel.count']
+2021-05-03 12:52:26,582:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146824
+2021-05-03 12:52:27,156:INFO:0.5717402s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146824
+2021-05-03 12:52:27,160:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40979
+2021-05-03 12:52:27,526:INFO:0.3647540s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40979
+2021-05-03 12:52:27,527:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40979
+2021-05-03 12:52:31,905:INFO:4.3785191s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40979
+2021-05-03 12:52:31,907:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40979
+2021-05-03 12:52:32,398:INFO:0.4906478s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40979
+2021-05-03 12:52:32,401:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18142224/mfeat-pixel.arff
+2021-05-03 12:52:33,192:INFO:0.7908874s taken for [get] request for the URL https://www.openml.org/data/v1/download/18142224/mfeat-pixel.arff
+2021-05-03 12:52:33,648:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146824/Task_146824_splits.arff
+2021-05-03 12:52:34,201:INFO:0.5495410s taken for [get] request for the URL https://www.openml.org/api_splits/get/146824/Task_146824_splits.arff
+2021-05-03 12:52:34,840:INFO:Running mfeat-pixel (146824)
+2021-05-03 12:52:36,657:INFO:pickle write mfeat-pixel
+2021-05-03 12:56:34,187:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/146825
+2021-05-03 12:56:34,711:INFO:0.5240672s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/146825
+2021-05-03 12:56:34,713:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40996
+2021-05-03 12:56:35,141:INFO:0.4269576s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40996
+2021-05-03 12:56:35,144:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40996
+2021-05-03 12:56:39,462:INFO:4.3180912s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40996
+2021-05-03 12:56:39,463:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40996
+2021-05-03 12:56:39,945:INFO:0.4815652s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40996
+2021-05-03 12:56:39,946:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18238735/Fashion-MNIST.arff
+2021-05-03 12:56:57,433:INFO:17.4865999s taken for [get] request for the URL https://www.openml.org/data/v1/download/18238735/Fashion-MNIST.arff
+2021-05-03 12:56:57,972:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/146825/Task_146825_splits.arff
+2021-05-03 12:56:59,429:INFO:1.4567802s taken for [get] request for the URL https://www.openml.org/api_splits/get/146825/Task_146825_splits.arff
+2021-05-03 12:57:05,224:INFO:Running Fashion-MNIST (146825)
+2021-05-03 12:58:11,156:INFO:pickle write Fashion-MNIST
+2021-05-04 08:53:55,482:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/167119
+2021-05-04 08:53:56,284:INFO:0.7978635s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/167119
+2021-05-04 08:53:56,293:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/41027
+2021-05-04 08:53:56,791:INFO:0.4977107s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/41027
+2021-05-04 08:53:56,793:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/41027
+2021-05-04 08:54:01,902:INFO:5.1094337s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/41027
+2021-05-04 08:54:01,903:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/41027
+2021-05-04 08:54:02,391:INFO:0.4876428s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/41027
+2021-05-04 08:54:02,399:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/18631418/jungle_chess_2pcs_raw_endgame_complete.arff
+2021-05-04 08:54:03,071:INFO:0.6715477s taken for [get] request for the URL https://www.openml.org/data/v1/download/18631418/jungle_chess_2pcs_raw_endgame_complete.arff
+2021-05-04 08:54:03,539:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/167119/Task_167119_splits.arff
+2021-05-04 08:54:04,782:INFO:1.2428322s taken for [get] request for the URL https://www.openml.org/api_splits/get/167119/Task_167119_splits.arff
+2021-05-04 08:54:10,657:INFO:Running jungle_chess_2pcs_raw_endgame_complete (167119)
+2021-05-04 08:54:11,535:INFO:pickle write jungle_chess_2pcs_raw_endgame_complete
+2021-05-04 08:56:23,527:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/167120
+2021-05-04 08:56:24,086:INFO:0.5584517s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/167120
+2021-05-04 08:56:24,088:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/23517
+2021-05-04 08:56:24,537:INFO:0.4481282s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/23517
+2021-05-04 08:56:24,538:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23517
+2021-05-04 08:56:29,537:INFO:4.9998760s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/23517
+2021-05-04 08:56:29,538:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23517
+2021-05-04 08:56:30,075:INFO:0.5358050s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/23517
+2021-05-04 08:56:30,077:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/2160285/numerai28.6.arff
+2021-05-04 08:56:35,536:INFO:5.4574947s taken for [get] request for the URL https://www.openml.org/data/v1/download/2160285/numerai28.6.arff
+2021-05-04 08:56:36,046:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/167120/Task_167120_splits.arff
+2021-05-04 08:56:38,553:INFO:2.5052707s taken for [get] request for the URL https://www.openml.org/api_splits/get/167120/Task_167120_splits.arff
+2021-05-04 08:56:49,394:INFO:Running numerai28.6 (167120)
+2021-05-04 08:56:54,191:INFO:pickle write numerai28.6
+2021-05-04 09:54:09,540:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/167121
+2021-05-04 09:54:10,102:INFO:0.5615029s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/167121
+2021-05-04 09:54:10,108:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40923
+2021-05-04 09:54:10,590:INFO:0.4825931s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40923
+2021-05-04 09:54:10,593:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40923
+2021-05-04 09:54:14,863:INFO:4.2697241s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40923
+2021-05-04 09:54:14,866:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40923
+2021-05-04 09:54:15,588:INFO:0.7217579s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40923
+2021-05-04 09:54:15,590:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/16789311/Devnagari-Script.arff
+2021-05-04 09:54:34,508:INFO:18.9177134s taken for [get] request for the URL https://www.openml.org/data/v1/download/16789311/Devnagari-Script.arff
+2021-05-04 09:54:35,406:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/167121/Task_167121_splits.arff
+2021-05-04 09:54:37,285:INFO:1.8793354s taken for [get] request for the URL https://www.openml.org/api_splits/get/167121/Task_167121_splits.arff
+2021-05-04 09:54:46,798:INFO:Running Devnagari-Script (167121)
+2021-05-04 09:57:18,028:INFO:pickle write Devnagari-Script
+2021-05-04 10:54:52,579:INFO:mode=CREATE
+2021-05-04 10:54:52,579:INFO:cv=10
+2021-05-04 10:54:52,580:INFO:n_estimators=20
+2021-05-04 10:54:52,580:INFO:n_jobs=1
+2021-05-04 10:54:52,580:INFO:max_bins=2
+2021-05-04 10:54:52,580:INFO:max_features=None
+2021-05-04 10:54:52,580:INFO:start_id=None
+2021-05-04 10:54:52,580:INFO:stop_id=None
+2021-05-04 10:54:52,580:INFO:honest_prior=ignore
+2021-05-04 10:54:52,580:INFO:parallel_tasks=1
+2021-05-04 10:54:52,580:INFO:vary_samples=False
+2021-05-04 10:54:52,580:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-04 10:54:53,156:INFO:0.5739760s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-04 10:54:53,813:INFO:Running kr-vs-kp (3)
+2021-05-04 10:54:54,030:INFO:pickle load data kr-vs-kp
+2021-05-04 10:54:54,085:INFO:NumExpr defaulting to 4 threads.
+2021-05-04 10:56:10,005:INFO:mode=CREATE
+2021-05-04 10:56:10,005:INFO:cv=10
+2021-05-04 10:56:10,005:INFO:n_estimators=20
+2021-05-04 10:56:10,005:INFO:n_jobs=1
+2021-05-04 10:56:10,006:INFO:max_bins=2
+2021-05-04 10:56:10,006:INFO:max_features=None
+2021-05-04 10:56:10,006:INFO:start_id=None
+2021-05-04 10:56:10,006:INFO:stop_id=None
+2021-05-04 10:56:10,006:INFO:honest_prior=ignore
+2021-05-04 10:56:10,006:INFO:parallel_tasks=1
+2021-05-04 10:56:10,006:INFO:vary_samples=False
+2021-05-04 10:56:10,006:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-04 10:56:10,590:INFO:0.5844374s taken for [get] request for the URL https://www.openml.org/api/v1/xml/study/OpenML-CC18
+2021-05-04 10:56:11,184:INFO:Running kr-vs-kp (3)
+2021-05-04 10:56:11,426:INFO:pickle load data kr-vs-kp
+2021-05-04 10:56:11,461:INFO:NumExpr defaulting to 4 threads.
+2021-05-05 12:20:24,987:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/task/167124
+2021-05-05 12:20:25,653:INFO:0.6619489s taken for [get] request for the URL https://www.openml.org/api/v1/xml/task/167124
+2021-05-05 12:20:25,664:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/40927
+2021-05-05 12:20:26,045:INFO:0.3793137s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/40927
+2021-05-05 12:20:26,047:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40927
+2021-05-05 12:20:30,403:INFO:4.3566217s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/40927
+2021-05-05 12:20:30,408:INFO:Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40927
+2021-05-05 12:20:30,942:INFO:0.5340941s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/40927
+2021-05-05 12:20:30,945:INFO:Starting [get] request for the URL https://www.openml.org/data/v1/download/16797613/CIFAR_10.arff
+2021-05-05 12:23:04,308:INFO:153.3625872s taken for [get] request for the URL https://www.openml.org/data/v1/download/16797613/CIFAR_10.arff
+2021-05-05 12:23:06,357:INFO:Starting [get] request for the URL https://www.openml.org/api_splits/get/167124/Task_167124_splits.arff
+2021-05-05 12:23:07,899:INFO:1.5410547s taken for [get] request for the URL https://www.openml.org/api_splits/get/167124/Task_167124_splits.arff
+2021-05-05 12:23:25,086:INFO:Running CIFAR_10 (167124)
+2021-05-05 12:34:35,204:INFO:pickle write CIFAR_10

@@ -15,7 +15,7 @@ color_dict = {
     'RF': '#377eb8',
     'HistRF': '#4daf4a',
 }
-tag = 'results_cv/'
+tag = 'results_cv'
 
 if not os.path.exists(f'./figures/{tag}/'):
     os.makedirs(f'./figures/{tag}/')
@@ -70,7 +70,6 @@ def mce(y_true, y_proba, n_bins=10):
     mce = np.max(np.abs(bin_acc - bin_conf))
 
     return mce
-
 
 def ece_score(y_true, y_proba, num_bins=20):
     y_hat = y_proba.argmax(axis=1)
@@ -143,21 +142,6 @@ def get_task_scores(score_fn, results_dir):
     for file in os.listdir(results_dir)[::-1]:
         with open(results_dir + file, 'rb') as f:
             results_dict = pickle.load(f)
-        # score_means = [
-        #     np.mean([
-        #         score_fn(
-        #             results_dict['y'][idx], y_proba
-        #         ) for y_proba, idx in zip(results_dict[name], results_dict['test_indices'])
-        #     ]) for name in clfs
-        # ]
-
-        # score_stds = [
-        #     np.std([
-        #         score_fn(
-        #             results_dict['y'][idx], y_proba
-        #         ) for y_proba, idx in zip(results_dict[name], results_dict['test_indices'])
-        #     ]) for name in clfs
-        # ]
 
         scores = np.asarray([
             [
@@ -255,7 +239,7 @@ def score_plots(loss_fn, loss_name):
     print("Score plots fn: " + loss_name)
     tasks, task_scores = get_task_scores(
         loss_fn, results_dir)
-
+    print(task_scores)
     df_rows = []
     for task, scores in zip(tasks, task_scores):
         print("Task: " + str(task))
@@ -323,7 +307,7 @@ def score_plots(loss_fn, loss_name):
     sns.stripplot(x=f"{loss_name} loss", y="Dataset", hue="Classifier",
         data=df, dodge=False, alpha=1, zorder=1, palette=color_dict)
 
-    plt.savefig(f'./figures/{tag}/{loss_name}_scatterplot.pdf')
+    plt.savefig(f'./figures/scatter/{loss_name}_scatterplot.pdf')
     plt.show()
 
 

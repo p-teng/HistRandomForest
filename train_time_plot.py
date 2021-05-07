@@ -77,6 +77,7 @@ sns.stripplot(x="BagDT_time", y="task",
             data=df, dodge=False, color="red", alpha=1, zorder=1)
 sns.stripplot(x="RF_time", y="task",
             data=df, dodge=False, color="blue", alpha=1, zorder=1)
+ax.set_xlabel("Training time")
 plt.savefig(f'./figures/train_time_scatterplot.pdf')
 from matplotlib.patches import Patch
 legend_elements = [Patch(facecolor='blue', edgecolor='b',

@@ -236,13 +236,11 @@ def get_bin_scores(results_dir, n_bins=10):
 
 
 def score_plots(loss_fn, loss_name):
-    print("Score plots fn: " + loss_name)
     tasks, task_scores = get_task_scores(
         loss_fn, results_dir)
     print(task_scores)
     df_rows = []
     for task, scores in zip(tasks, task_scores):
-        print("Task: " + str(task))
         row = np.round(np.mean(scores, axis=1), 5)
         row = [task['task'], task['n_classes'],
             task['n_samples'], task['n_features']] + list(row)
@@ -256,31 +254,11 @@ def score_plots(loss_fn, loss_name):
     for i, clf in enumerate(clfs[:-1]): # clfs[:-1] = ['RF', 'IRF', 'SigRF']
         print(clf)
         score_df[f'{clf}-HistRF'] = np.mean(task_scores[:, i] - task_scores[:, -1], axis=-1)
-
+    
     score_df['HistRF_diff_max'] = score_df.apply(
         lambda row: max([row[f'{col}-HistRF'] for col in ['BagDT', 'RF']]), axis=1)
     print(score_df)
-    # Wilcoxon csv
-    # m = len(clfs)
-    # stat_mat = []
-    # for r in range(m):
-    #     stat_mat.append([])
-    #     for c in range(m):
-    #         if r == c:
-    #             stat_mat[r].append('')
-    #             continue
-    #         # Wilcoxon(x, y) significant if x < y
-    #         # stat, pval = wilcoxon(
-    #         #     score_df[clfs[r]], score_df[clfs[c]], zero_method='zsplit', alternative='less')
-    #         stat, pval = wilcoxon(
-    #             np.mean(task_scores[:, r] - task_scores[:, c], axis=-1), zero_method='zsplit', alternative='less')
-    #         stat_mat[r].append(f'{stat:.3f} ({pval:.3f})')
-
-    # stat_mat = pd.DataFrame(stat_mat, columns=clfs)
-    # stat_mat.index = clfs
-    # stat_mat.to_csv(f'./figures/{tag}/{loss_name}_wilcoxon_cv10.csv')
-    # print(stat_mat)
-
+    
     # Pairplots
     for clf in ['BagDT', 'RF']:
         g = continuous_pairplot(
@@ -302,15 +280,21 @@ def score_plots(loss_fn, loss_name):
     df = df.melt(
         id_vars=['Dataset'], value_vars=clfs, var_name='Classifier', value_name=f'{loss_name} loss'
     ).sort_values(f'{loss_name} loss')
-
+    
+    print("STRIP PLOT")
     # Show each observation with a scatterplot
     sns.stripplot(x=f"{loss_name} loss", y="Dataset", hue="Classifier",
         data=df, dodge=False, alpha=1, zorder=1, palette=color_dict)
 
     plt.savefig(f'./figures/scatter/{loss_name}_scatterplot.pdf')
     plt.show()
+        
 
-
+def get_train_time(clf, data):
+    for name in metadata:
+        if name == clf:
+            return np.average(data[name]['train_times'])
+        
 losses = [
     (mce_score, 'MCE'),
     (ece_score, 'ECE'),
